@@ -8,11 +8,11 @@ For whom:
 
 Why RCleaner:
 --------------
-  Multiple temporary files are generated after execution of latex file and those files are not at alrequired for general purpose. RCleaner file will remove such unwanted files in the current directory as well as the subdirectories.
+  Multiple temporary files are generated after execution of latex file and those files are not at alrequired for general purpose. RCleaner-v0 file will remove such unwanted files in the current directory as well as the subdirectories.
   
   
 How to Use:
 ------------
-  Just download the RCleaner.bat file. Copy it to the parent directory where the latex file is present. Now just double click on RCleaner.bat file to run.
+  Just download the RCleaner-v0.bat file. Copy it to the parent directory where the latex file is present. Now just double click on RCleaner-v0.bat file to run.
   
   
